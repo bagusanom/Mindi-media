@@ -1528,7 +1528,7 @@ only screen and (min-resolution:1.3dppx){
   margin:0 auto;
   width:13px;
   text-indent:-9999px;
-  background-image:url(../img/icons/icon-arrow.png);
+  background-image:url(assets/icon-arrow.png);
   background-size:13px 8px
 }
 @media only screen and (max-height:500px){
@@ -1722,7 +1722,7 @@ only screen and (min-resolution:1.3dppx){
   left:35px;
   width:13px;
   height:8px;
-  background-image:url(../img/icons/icon-arrow.png);
+  background-image:url(assets/icon-arrow.png);
   background-repeat:no-repeat;
   background-position:center;
   background-size:cover;
@@ -2018,7 +2018,7 @@ body[data-page-id=contact] .section--left h3 a{
   left:35px;
   width:13px;
   height:8px;
-  background-image:url(../img/icons/icon-arrow.png);
+  background-image:url(assets/icon-arrow.png);
   background-repeat:no-repeat;
   background-position:center;
   background-size:cover;
